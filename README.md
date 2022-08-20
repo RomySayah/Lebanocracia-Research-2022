@@ -6,4 +6,4 @@ The 9 regions are: 'Mount Lebanon', 'Lebanese diaspora', 'Beirut', 'Akkar',
        'North Lebanon', 'Beqaa', 'South Lebanon', 'Nabatiyeh',
        'Baalbek-Hermel'
 
-![image](https://user-images.githubusercontent.com/46200897/185764718-d8cd24a7-277a-4a6b-9f38-a4e67e60daa4.png)
+![image](https://user-images.githubusercontent.com/46200897/185764912-a7978f7c-fd4a-4fdf-9ce0-c54ad2fcd397.png)
