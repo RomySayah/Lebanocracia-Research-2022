@@ -15,3 +15,9 @@ The 9 regions are: 'Mount Lebanon', 'Lebanese diaspora', 'Beirut', 'Akkar',
        'Baalbek-Hermel'
 
 ![image](https://user-images.githubusercontent.com/46200897/185764912-a7978f7c-fd4a-4fdf-9ce0-c54ad2fcd397.png)
+![1](https://user-images.githubusercontent.com/46200897/188770576-554c1543-f9f3-4cd5-a471-6c64f2c94509.png)
+![2](https://user-images.githubusercontent.com/46200897/188770577-eb077307-a42f-44fe-8f0b-bc2941b836c4.png)
+![3](https://user-images.githubusercontent.com/46200897/188770579-cf4d8f8c-3606-4ed6-a0c9-5d153a54ce1b.png)
+![4](https://user-images.githubusercontent.com/46200897/188770583-d5adc647-b06e-4c7c-bfab-7bd5407573c0.png)
+![5](https://user-images.githubusercontent.com/46200897/188770586-53180ff1-4b61-4053-a2ed-936685752370.png)
+![6](https://user-images.githubusercontent.com/46200897/188770588-55e01975-19e8-4300-b9f9-0d8c10cd8cfc.png)
